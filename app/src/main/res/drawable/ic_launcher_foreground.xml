@@ -1,0 +1,15 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Plane glyph centered within the 72dp safe zone -->
+    <group
+        android:translateX="54"
+        android:translateY="54"
+        android:rotation="45">
+        <path
+            android:pathData="M0,-26 L5,-10 L24,4 L24,9 L5,3 L5,18 L12,23 L12,27 L0,24 L-12,27 L-12,23 L-5,18 L-5,3 L-24,9 L-24,4 L-5,-10 Z"
+            android:fillColor="#FFFFFF"/>
+    </group>
+</vector>
