@@ -1,0 +1,11 @@
+node_modules
+dist
+dist-ssr
+*.local
+*.tsbuildinfo
+.DS_Store
+
+# Capacitor native projects (generated on a Mac via `npx cap add ios`)
+ios/App/Pods
+ios/App/App/public
+.env

@@ -4,6 +4,10 @@ A polished, **UI/UX-only** recreation of a *Plane Finder* style flight-tracker a
 built as a native Android app with **Kotlin + Jetpack Compose**. All data is mocked —
 there is no real network/flight feed — the focus is the look, feel, and interactions.
 
+> **iOS / cross-platform:** a faithful **React + Capacitor** port of this app (for
+> App Store deployment) lives in [`web/`](web). See [`web/README.md`](web/README.md)
+> for build and iOS submission steps.
+
 ## What's inside
 
 | Screen | Highlights |
